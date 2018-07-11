@@ -2,4 +2,4 @@ this is a test file.
 create a new branch.
 测试远程修改文件/版本对本地的影响。
 测试成功。
-增加新的一行。
+增加新的一行，第二次测试。
